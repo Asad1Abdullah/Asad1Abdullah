@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Asad Abdullah</h1>
-<h3 align="center">A soon to be computer scientist.</h3>
+<h3 align="center">A soon to be Robotics Engineer.</h3>
 
 - 🌱 I’m currently learning **Game development.**
 
 - 💬 Ask me about **C++**
 
-- 📫 How to reach me **asad.alinasir78620@gmail.com**
+- 📫 How to reach me **asad1abdullah007@gmail.com**
 
-- ⚡ Fun fact **I think I AM FUNNY!**
+- ⚡ Fun fact **I rarely bore!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
