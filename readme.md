@@ -47,15 +47,10 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 
 ### This week
 
-```
-C++              ████████████░░░░  43.4%
-Bash             ███████░░░░░░░░░  25.9%
-Python           ████░░░░░░░░░░░░  14.6%
-Git Config       ██░░░░░░░░░░░░░░   7.3%
-Other            █░░░░░░░░░░░░░░░   8.8%
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-> Tracked with [WakaTime](https://wakatime.com) · 13h 29m total
+> Tracked with [WakaTime](https://wakatime.com)
 
 ---
 
