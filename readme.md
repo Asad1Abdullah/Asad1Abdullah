@@ -1,21 +1,82 @@
-<h1 align="center">Hi 👋, I'm Asad Abdullah</h1>
-<h3 align="center">A soon to be Robotics Engineer.</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=555555&width=435&lines=Full-stack+developer.;Builder+of+things+that+work.;C%2B%2B+%E2%80%94+Python+%E2%80%94+Bash+%E2%80%94+Web." alt="Typing SVG" />
 
-- 🌱 I’m currently learning **Game development.**
+# Asad Abdullah
 
-- 💬 Ask me about **C++**
+Full-stack developer based in Pakistan. I like clean systems, fast code, and shipping things that actually work.
 
-- 📫 How to reach me **asad1abdullah007@gmail.com**
+---
 
-- ⚡ Fun fact **I rarely bore!**
+### About
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/asad1abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asad1abdullah" height="30" width="40" /></a>
-<a href="https://fb.com/asad abdullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asad abdullah" height="30" width="40" /></a>
-</p>
+- 🔭 Currently focused on full-stack development + systems programming in C++
+- 🐚 I automate everything I can with Bash
+- 📓 Exploring data workflows with Python & Jupyter
+- 🌍 Open to collaborating on interesting open-source projects
+- ⏱️ Logged **13h 29m** of coding last week
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=asad1abdullah&show_icons=true&locale=en&layout=compact" alt="asad1abdullah" /></p>
+### Tech
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+### Stats
+
+<a href="https://github.com/AsadAbdullah">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AsadAbdullah&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=222222&text_color=555555&icon_color=888888" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAbdullah&layout=compact&hide_border=true&theme=default&title_color=222222&text_color=555555" />
+</a>
+
+---
+
+### This week
+
+```
+C++              ████████████░░░░  43.4%
+Bash             ███████░░░░░░░░░  25.9%
+Python           ████░░░░░░░░░░░░  14.6%
+Git Config       ██░░░░░░░░░░░░░░   7.3%
+Other            █░░░░░░░░░░░░░░░   8.8%
+```
+
+> Tracked with [WakaTime](https://wakatime.com) · 13h 29m total
+
+---
+
+### Currently building
+
+| Project | What it is | Stack |
+|---|---|---|
+| 🔧 TBA | Systems-level tool | C++, Bash |
+| 📊 TBA | Data pipeline / analysis | Python, Jupyter |
+| 🌐 TBA | Full-stack web app | TS, Node, React |
+
+> _Replace these rows with your actual projects!_
+
+---
+
+### Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsadAbdullah-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/AsadAbdullah)
+[![Twitter](https://img.shields.io/badge/Twitter-@AsadAbdullah-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/AsadAbdullah)
+[![Instagram](https://img.shields.io/badge/Instagram-AsadAbdullah-E4405F?style=flat-square&logo=instagram)](https://instagram.com/AsadAbdullah)
+
+---
+
+<sub>Updated Mar 2026 · Made with care by Asad Abdullah</sub>
