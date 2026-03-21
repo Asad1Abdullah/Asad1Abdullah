@@ -38,9 +38,9 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 
 ### Stats
 
-<a href="https://github.com/AsadAbdullah">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AsadAbdullah&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=222222&text_color=555555&icon_color=888888" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsadAbdullah&layout=compact&hide_border=true&theme=default&title_color=222222&text_color=555555" />
+<a href="https://github.com/asad1abdullah">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asad1abdullah&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=222222&text_color=555555&icon_color=888888" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad1abdullah&layout=compact&hide_border=true&theme=default&title_color=222222&text_color=555555" />
 </a>
 
 ---
@@ -73,9 +73,9 @@ Other            █░░░░░░░░░░░░░░░   8.8%
 
 ### Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AsadAbdullah-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/AsadAbdullah)
-[![Twitter](https://img.shields.io/badge/Twitter-@AsadAbdullah-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/AsadAbdullah)
-[![Instagram](https://img.shields.io/badge/Instagram-AsadAbdullah-E4405F?style=flat-square&logo=instagram)](https://instagram.com/AsadAbdullah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-asad1abdullah-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/asad1abdullah)
+[![Twitter](https://img.shields.io/badge/Twitter-@asad1abdullah-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/asad1abdullah)
+[![Instagram](https://img.shields.io/badge/Instagram-asad1abdullah-E4405F?style=flat-square&logo=instagram)](https://instagram.com/asad1abdullah)
 
 ---
 
