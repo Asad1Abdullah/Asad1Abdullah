@@ -44,19 +44,16 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 </a>
 
 ---
-
+[![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@asad1abdullah)
 ### This week
-
 <!--START_SECTION:waka-->
-
 ```txt
-JavaScript   4 hrs 27 mins         ████████████░░░░░░░░░░░░░   48.59 %
-HTML         2 hrs 6 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
-Python       1 hr 30 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.49 %
-JSON         31 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Other        18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.28 %
+JavaScript   4 hrs 27 mins   ████████████░░░░░░   48.59 %
+HTML         2 hrs 06 mins   █████▓░░░░░░░░░░░░   22.96 %
+Python       1 hr 30 mins    ████░░░░░░░░░░░░░░   16.49 %
+JSON         31 mins         █▒░░░░░░░░░░░░░░░░   05.82 %
+Other        18 mins         ▓░░░░░░░░░░░░░░░░░   03.28 %
 ```
-
 <!--END_SECTION:waka-->
 
 > Tracked with [WakaTime](https://wakatime.com)
