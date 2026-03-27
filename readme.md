@@ -1,18 +1,15 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&pause=1000&color=555555&width=435&lines=Full-stack+developer.;Builder+of+things+that+work.;C%2B%2B+%E2%80%94+Python+%E2%80%94+Bash+%E2%80%94+Web." alt="Typing SVG" />
 
 # Asad Abdullah
-
 Full-stack developer based in Pakistan. I like clean systems, fast code, and shipping things that actually work.
 
 ---
 
 ### About
-
 - 🔭 Currently focused on full-stack development + systems programming in C++
 - 🐚 I automate everything I can with Bash
 - 📓 Exploring data workflows with Python & Jupyter
 - 🌍 Open to collaborating on interesting open-source projects
-- ⏱️ Logged **13h 29m** of coding last week
 
 ---
 
@@ -38,22 +35,16 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 
 ### Stats
 
-<a href="https://github.com/asad1abdullah">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asad1abdullah&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=222222&text_color=555555&icon_color=888888" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad1abdullah&layout=compact&hide_border=true&theme=default&title_color=222222&text_color=555555" />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asad1abdullah&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=222222&text_color=555555&icon_color=888888&bg_color=00000000&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad1abdullah&layout=compact&hide_border=true&title_color=222222&text_color=555555&bg_color=00000000&cache_seconds=1800" />
 
 ---
-[![wakatime](https://wakatime.com/badge/user/YOUR_USER_ID.svg)](https://wakatime.com/@asad1abdullah)
+
 ### This week
+
+[![wakatime](https://wakatime.com/badge/user/YOUR-UUID-HERE.svg?style=flat-square)](https://wakatime.com/@asad1abdullah)
+
 <!--START_SECTION:waka-->
-```txt
-JavaScript   4 hrs 27 mins   ████████████░░░░░░   48.59 %
-HTML         2 hrs 06 mins   █████▓░░░░░░░░░░░░   22.96 %
-Python       1 hr 30 mins    ████░░░░░░░░░░░░░░   16.49 %
-JSON         31 mins         █▒░░░░░░░░░░░░░░░░   05.82 %
-Other        18 mins         ▓░░░░░░░░░░░░░░░░░   03.28 %
-```
 <!--END_SECTION:waka-->
 
 > Tracked with [WakaTime](https://wakatime.com)
@@ -67,8 +58,6 @@ Other        18 mins         ▓░░░░░░░░░░░░░░░░
 | 🔧 TBA | Systems-level tool | C++, Bash |
 | 📊 TBA | Data pipeline / analysis | Python, Jupyter |
 | 🌐 TBA | Full-stack web app | TS, Node, React |
-
-> _Replace these rows with your actual projects!_
 
 ---
 
