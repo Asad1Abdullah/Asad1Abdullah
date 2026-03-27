@@ -10,6 +10,7 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 - 🐚 I automate everything I can with Bash
 - 📓 Exploring data workflows with Python & Jupyter
 - 🌍 Open to collaborating on interesting open-source projects
+- ⏱️ Logged **13h 29m** of coding last week
 
 ---
 
@@ -35,14 +36,14 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 
 ### Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asad1abdullah&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=222222&text_color=555555&icon_color=888888&bg_color=00000000&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad1abdullah&layout=compact&hide_border=true&title_color=222222&text_color=555555&bg_color=00000000&cache_seconds=1800" />
+<a href="https://github.com/asad1abdullah">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=asad1abdullah&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&title_color=222222&text_color=555555&icon_color=888888" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asad1abdullah&layout=compact&hide_border=true&theme=default&title_color=222222&text_color=555555" />
+</a>
 
 ---
 
 ### This week
-
-[![wakatime](https://wakatime.com/badge/user/YOUR-UUID-HERE.svg?style=flat-square)](https://wakatime.com/@asad1abdullah)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -58,6 +59,8 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 | 🔧 TBA | Systems-level tool | C++, Bash |
 | 📊 TBA | Data pipeline / analysis | Python, Jupyter |
 | 🌐 TBA | Full-stack web app | TS, Node, React |
+
+> _Replace these rows with your actual projects!_
 
 ---
 
