@@ -48,11 +48,11 @@ Full-stack developer based in Pakistan. I like clean systems, fast code, and shi
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    9 hrs 7 mins          ████████████████████▓░░░░   83.24 %
-Markdown      1 hr 8 mins           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-Other         27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-CSS           9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-HTML          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+TypeScript    7 hrs 32 mins         ████████████████████▓░░░░   82.73 %
+Markdown      1 hr 2 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+Other         24 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+CSS           4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+JSON          1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
